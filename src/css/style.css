@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+}
+
+.start {
+    font-family: 'Arial', sans-serif;
+    color: #333333;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+img {
+    width: 200px;
+}
+
+.mi-foto {
+    width: 220px;
+    border-radius: 10%;
+    border: 5px solid darkblue;
+}
